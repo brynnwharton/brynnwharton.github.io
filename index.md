@@ -1,3 +1,8 @@
+## Our Project
+
+Our project was designed with COVID-19 in mind.  We ask users to input their daily activities so that they are
+able to easily track where they've been and share this with their friends or family.  While designed with COVID-19 in mind, this service might work well for dementia patients or other users with frequent memory loss.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/brynnwharton/brynnwharton.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
