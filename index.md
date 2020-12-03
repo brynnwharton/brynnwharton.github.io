@@ -14,7 +14,7 @@ Our features include
 
 ### Website Walk-Through
 
-Please take time to view our [video walk-through](https://youtube.com/) linked on youtube.
+Please take time to view our [video walk-through](https://youtu.be/QRyhd_uZ2Sc) linked on youtube.
 
 ### Technical Specifics
 
