@@ -14,4 +14,12 @@ Our features include
 
 ### Website Walk-Through
 
-Please take time to view our [video walk-through] (https://youtube.com/) linked on youtube.
+Please take time to view our [video walk-through](https://youtube.com/) linked on youtube.
+
+### Technical Specifics
+
+Technologies Used
+
+- Angular 10
+- Laravel 8
+- MySQL 8
